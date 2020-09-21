@@ -1,5 +1,5 @@
 # Ar-face-tracker
-An AR face tracker built using javascript
+An AR face tracker built using javascript. The helmet one is an inbuilt one. The rest are implemented by me.
 
 # Implementation
 In the command line, cd to downloaded folder(for example cd C:\)Zappar](https://github.com/zappar-xr/zappar-aframe-examples/blob/master/README.md) 
