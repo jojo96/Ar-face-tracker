@@ -16,4 +16,4 @@ In the command line, cd to downloaded folder(for example cd C:\)Zappar](https://
  4. Go to browser and type: https://127.0.0.1:8080 
 
 ## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
+This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/jojo96/Ar-face-tracker/blob/master/LICENSE) page.
